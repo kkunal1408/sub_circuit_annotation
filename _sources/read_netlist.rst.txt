@@ -1,0 +1,7 @@
+read\_netlist module
+====================
+
+.. automodule:: read_netlist
+   :members:
+   :undoc-members:
+   :show-inheritance:

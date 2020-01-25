@@ -1,0 +1,7 @@
+match\_graph module
+===================
+
+.. automodule:: match_graph
+   :members:
+   :undoc-members:
+   :show-inheritance:
