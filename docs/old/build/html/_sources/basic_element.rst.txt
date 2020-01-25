@@ -1,7 +1,0 @@
-basic_element Module
-====================
-
-.. automodule:: basic_element
-    :members:
-    :undoc-members:
-    :show-inheritance:

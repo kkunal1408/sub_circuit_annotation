@@ -1,7 +1,0 @@
-read_lef Module
-===============
-
-.. automodule:: read_lef
-    :members:
-    :undoc-members:
-    :show-inheritance:

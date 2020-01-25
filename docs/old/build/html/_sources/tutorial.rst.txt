@@ -1,6 +1,0 @@
-Need python to run this
-=======================
-Help:
-
-``python3 ./src/compiler.py --help``
-

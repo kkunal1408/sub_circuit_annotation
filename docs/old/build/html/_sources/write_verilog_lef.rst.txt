@@ -1,7 +1,0 @@
-write_verilog_lef Module
-========================
-
-.. automodule:: write_verilog_lef
-    :members:
-    :undoc-members:
-    :show-inheritance:
